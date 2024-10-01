@@ -1,8 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
 #container {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 2rem;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    
     
 }
 
