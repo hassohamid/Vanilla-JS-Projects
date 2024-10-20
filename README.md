@@ -1,4 +1,4 @@
-# Vanilla JS
+# What I do here
 
 In this repo, I focus mostly on practisiing my JS vanilla skills to improve fundementals. 
 
